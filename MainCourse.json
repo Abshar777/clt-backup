@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "68aee1c9a09a8cba8d0e451c",
+    "name": "TRADE CRAFT - BASIC COURSE",
+    "description": "Trade Craft\" is a 4-week intensive program designed to transition traders from uncertainty to confidence. It focuses on building a strong foundation in trading principles, risk management, and strategy development",
+    "image": "9bf681cf-12d8-405f-84f7-9e1c8fbad395.png",
+    "courseCount": 14,
+    "isDeleted": false,
+    "createdAt": "2025-08-27T10:45:29.962Z",
+    "updatedAt": "2025-11-17T13:21:02.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "68aee22fa09a8cba8d0e453b",
+    "name": "PROFIT MATRIX - INTERMEDIATE COURSE ",
+    "description": "Profit Matrix is built for traders who have the basic tools but lack consistency. This course dives deep into strategy development, live execution, and advanced trade psychology. It’s the step from knowledge to confidence — and from potential to profitability.",
+    "image": "0803bd45-527d-4e4c-a3b5-dda534d01956.png",
+    "courseCount": 24,
+    "isDeleted": false,
+    "createdAt": "2025-08-27T10:47:11.008Z",
+    "updatedAt": "2025-11-17T13:03:23.926Z",
+    "__v": 0
+  },
+  {
+    "_id": "68f76b1c06603faf9f2bb71c",
+    "name": "aa",
+    "description": "aa",
+    "image": "1b291454-d71f-4f6c-8169-38ff15e17bdf.png",
+    "courseCount": 0,
+    "isDeleted": true,
+    "createdAt": "2025-10-21T11:14:36.617Z",
+    "updatedAt": "2025-10-21T13:05:09.001Z",
+    "__v": 0
+  }
+]

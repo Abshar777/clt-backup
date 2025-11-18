@@ -1,0 +1,2621 @@
+[
+  {
+    "_id": "6875e25cc264ee87cf4e4a30",
+    "name": "Trade Craft",
+    "description": "Learn the essentials of trading — from platform basics and price patterns to risk control and market mindset — all in one high-impact, beginner-friendly course..",
+    "batch": "batch-123",
+    "image": "12e877ec-b6ad-41f7-9cfb-05eb626e1bc8.png",
+    "students": [
+      {
+        "name": "a",
+        "code": "A625013",
+        "time": "00:00-Offline",
+        "email": "absharameen625@gmail.com",
+        "_id": "6875e25cc264ee87cf4e4a31"
+      }
+    ],
+    "links": [
+      {
+        "time": "00:00",
+        "link": "https://github.com/Delta-init/clt-course-admin",
+        "isOnline": true,
+        "_id": "6875e25cc264ee87cf4e4a32"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-07-15T05:08:44.538Z",
+    "updatedAt": "2025-07-20T08:52:51.721Z",
+    "__v": 6,
+    "sections": [
+      {
+        "language": "english",
+        "time": "12:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf3"
+      },
+      {
+        "language": "english",
+        "time": "13:30",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf4"
+      },
+      {
+        "language": "english",
+        "time": "15:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf5"
+      },
+      {
+        "language": "english",
+        "time": "16:30",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf6"
+      },
+      {
+        "language": "english",
+        "time": "18:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf7"
+      },
+      {
+        "language": "english",
+        "time": "19:30",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf8"
+      },
+      {
+        "language": "english",
+        "time": "21:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bf9"
+      },
+      {
+        "language": "malayalam",
+        "time": "22:30",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687cae6386198e203f125bfa"
+      }
+    ]
+  },
+  {
+    "_id": "687bc3f386198e203f11d1c2",
+    "name": "Profit Matrix ",
+    "description": "Designed for traders who know the basics but lack execution clarity, this 8-week program dives into advanced trade planning, market psychology, and strategic precision. Take the leap from potential to profitability — and build habits that last a lifetime.",
+    "image": "06df36bd-1fd5-47cb-84b0-b22da3c08bbc.png",
+    "sections": [
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687bc3f386198e203f11d1c3"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-07-19T16:12:35.497Z",
+    "updatedAt": "2025-07-19T16:12:35.497Z",
+    "__v": 0
+  },
+  {
+    "_id": "687bc4c886198e203f11d297",
+    "name": "Market Code",
+    "description": "Designed for experienced traders seeking structured mastery, this 14-weeks program unpacks high-level chart analysis, risk-to-reward systems, and real-time strategy execution. Elevate from scattered results to strategic consistency — and trade with the clarity of a pro.",
+    "image": "8c19072f-5117-468f-94f0-3ca70691058f.webp",
+    "sections": [
+      {
+        "language": "english",
+        "time": "01:05",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687e95f534bf456cdf383242"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-07-19T16:16:08.655Z",
+    "updatedAt": "2025-07-21T19:33:09.608Z",
+    "__v": 6
+  },
+  {
+    "_id": "687bc51486198e203f11d2e2",
+    "name": "CLT Vantage",
+    "description": "This 6-month program doesn’t just teach trading. It builds leaders capable of thinking like fund managers, mentoring others, and navigating market chaos with clarity.",
+    "image": "26dd481a-9482-47d7-b786-c7252c5e7c52.webp",
+    "sections": [
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "_id": "687bc51486198e203f11d2e3"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-07-19T16:17:24.320Z",
+    "updatedAt": "2025-07-19T16:17:24.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "68a4aa9ad9777069166320c8",
+    "name": "Abshar",
+    "description": "Babab",
+    "image": "0e02c9ba-a325-424a-b75e-f322c251efca.jpeg",
+    "sections": [
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://main.clt-academy.com/admin/courses",
+        "_id": "68a4aaa6d9777069166320dc"
+      }
+    ],
+    "isDeleted": true,
+    "createdAt": "2025-08-19T16:47:22.708Z",
+    "updatedAt": "2025-09-17T15:24:51.780Z",
+    "__v": 1
+  },
+  {
+    "_id": "68a579455e5015880ef0e42f",
+    "name": "Module 1 ",
+    "description": "Introduction to stock market and forex market",
+    "image": "63f66ad6-66b4-40e7-9b90-a9db5b8d122e.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5dc"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5dd"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5de"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5df"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e0"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e1"
+      },
+      {
+        "language": "hindi",
+        "time": "09:00",
+        "link": "https://meet.google.com/eea-vxdi-dzi",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e2"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/ugf-enqn-vex",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e3"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/ugf-enqn-vex",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e4"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/ugf-enqn-vex",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed814fc4aa3e64a9e5e5"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:29:10.001Z",
+    "updatedAt": "2025-11-15T01:36:10.175Z",
+    "__v": 28,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 1,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a57a8b5e5015880ef0e4b5",
+    "name": "Module 2",
+    "description": "Introduction to currency pairs and basic terminologies",
+    "image": "55135153-364d-4c60-9ab8-3749530cbe76.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e37b"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e37c"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e37d"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e37e"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e37f"
+      },
+      {
+        "language": "hindi",
+        "time": "01:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e380"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e381"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed414fc4aa3e64a9e382"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:34:35.756Z",
+    "updatedAt": "2025-11-04T15:29:01.428Z",
+    "__v": 19,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 2,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a57b645e5015880ef0e537",
+    "name": "Module 3",
+    "description": " Introduction and explanation about meta trader 5 and brokers",
+    "image": "4bae2ace-4555-436c-8684-aa60b9d5d4e3.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0152"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0153"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0154"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0155"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0156"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/jpp-jiyc-sax",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0157"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/jpp-jiyc-sax",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0158"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/jpp-jiyc-sax",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef7d4fc4aa3e64aa0159"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/jpp-jiyc-sax",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ef7d4fc4aa3e64aa015a"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:38:12.890Z",
+    "updatedAt": "2025-10-22T14:51:41.640Z",
+    "__v": 17,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 3,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a57c585e5015880ef0e593",
+    "name": "Module 4",
+    "description": "Trading psychology and risk reward management",
+    "image": "5528add4-4018-409e-b103-1cca6a230592.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6d8"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6d9"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6da"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6db"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6dc"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/dbm-twoj-hod",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6dd"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/dbm-twoj-hod",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6de"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/dbm-twoj-hod",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6df"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/dbm-twoj-hod",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed9d4fc4aa3e64a9e6e0"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:42:16.011Z",
+    "updatedAt": "2025-10-22T14:43:41.024Z",
+    "__v": 14,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 4,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a57d955e5015880ef0e603",
+    "name": "Module 5",
+    "description": " Market structure analysis and trends",
+    "image": "2a9868e6-dd35-47b6-8a33-be3890d8c8f4.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed224fc4aa3e64a9e218"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed224fc4aa3e64a9e219"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed224fc4aa3e64a9e21a"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed224fc4aa3e64a9e21b"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ed224fc4aa3e64a9e21c"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ed224fc4aa3e64a9e21e"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ed224fc4aa3e64a9e21f"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ed224fc4aa3e64a9e220"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:47:33.364Z",
+    "updatedAt": "2025-11-15T01:37:05.202Z",
+    "__v": 15,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 5,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a57fda5e5015880ef0e6ba",
+    "name": "Module 6",
+    "description": " Introduction and detailed explanation of trading view and candlesticks",
+    "image": "ee313e5d-6d20-4c55-b6ad-ff73398ca6e1.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6eee"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6eef"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef0"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef1"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef2"
+      },
+      {
+        "language": "tamil",
+        "time": "12:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": true,
+        "avaibleDay": "fri",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68ff17c6e5c0b84e3bfb6ef3"
+      },
+      {
+        "language": "arabic",
+        "time": "11:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": true,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef4"
+      },
+      {
+        "language": "english",
+        "time": "01:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef5"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff17c6e5c0b84e3bfb6ef6"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T07:57:14.826Z",
+    "updatedAt": "2025-11-15T01:38:13.038Z",
+    "__v": 17,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 6,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a5808a5e5015880ef0e71e",
+    "name": "Module 7",
+    "description": "Chart pattern analysis - continuos and reversal patterns",
+    "image": "50ca80fd-5f1a-4f2c-9a98-858d486bc365.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42133"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42134"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42135"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42136"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42137"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42138"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf42139"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf4213a"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68fc817ae5c0b84e3bf4213b"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T08:00:10.059Z",
+    "updatedAt": "2025-10-25T07:51:22.426Z",
+    "__v": 17,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 7,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a5815c5e5015880ef0e787",
+    "name": " Module 8",
+    "description": "Chart pattern analysis - bilateral patterns",
+    "image": "95022986-3725-4669-be5b-aab4e2170023.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7170"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7171"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7172"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7173"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7174"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7175"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7176"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7177"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68ff181ae5c0b84e3bfb7178"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T08:03:40.726Z",
+    "updatedAt": "2025-10-27T06:58:34.847Z",
+    "__v": 13,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 8,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a582425e5015880ef0e803",
+    "name": "Module 9",
+    "description": " Entry and exit model in chart patterns and volume based analysis",
+    "image": "9f71fead-7ce1-45c5-ab02-900389d93fc4.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8f2414fc4aa3e64aa0a96"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8f2414fc4aa3e64aa0a97"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8f2414fc4aa3e64aa0a98"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8f2414fc4aa3e64aa0a99"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8f2414fc4aa3e64aa0a9a"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8f2414fc4aa3e64aa0a9b"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8f2414fc4aa3e64aa0a9c"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8f2414fc4aa3e64aa0a9d"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T08:07:30.602Z",
+    "updatedAt": "2025-11-04T15:25:48.076Z",
+    "__v": 17,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 9,
+    "isDisabled": false
+  },
+  {
+    "_id": "68a583775e5015880ef0e892",
+    "name": "Module 10",
+    "description": "News based analysis and time zones",
+    "image": "752ce336-43e5-476f-a214-a19a541a718a.png",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de5d"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de5e"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de5f"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de60"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de61"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de62"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de63"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ecdf4fc4aa3e64a9de64"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "6917d929a5e2b23a87906080"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-08-20T08:12:39.099Z",
+    "updatedAt": "2025-11-15T01:36:41.764Z",
+    "__v": 19,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "position": 10,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b82f7655a3cc4feebf5d84",
+    "name": "Module 20",
+    "description": "POI",
+    "image": "50afa970-7398-43ba-b04d-e9b0a2f4ba66.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024a"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024b"
+      },
+      {
+        "language": "english",
+        "time": "01:00",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024c"
+      },
+      {
+        "language": "english",
+        "time": "02:00",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024d"
+      },
+      {
+        "language": "english",
+        "time": "03:00",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024e"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/jyg-xyao-dhj",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef8a4fc4aa3e64aa024f"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:07:18.766Z",
+    "updatedAt": "2025-10-22T14:51:54.658Z",
+    "__v": 10,
+    "position": 20,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b82fb755a3cc4feebf5f2d",
+    "name": "Module 19",
+    "description": " Breaker block and inducement",
+    "image": "182aa310-816d-43f6-b113-308378c8d443.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/dud-fffb-neg",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef344fc4aa3e64a9fff2"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/dud-fffb-neg",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef344fc4aa3e64a9fff3"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/dud-fffb-neg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef344fc4aa3e64a9fff4"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/dud-fffb-neg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef344fc4aa3e64a9fff5"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/dud-fffb-neg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef344fc4aa3e64a9fff6"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:08:23.923Z",
+    "updatedAt": "2025-10-22T14:50:28.090Z",
+    "__v": 7,
+    "position": 19,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b82ff555a3cc4feebf6151",
+    "name": "Module 18",
+    "description": " Order blocks - valid and grabbed",
+    "image": "4cc948bd-74eb-4069-b93e-aef5190128fc.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/jrq-zrjt-rsv",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef244fc4aa3e64a9ff00"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/jrq-zrjt-rsv",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef244fc4aa3e64a9ff01"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/jrq-zrjt-rsv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef244fc4aa3e64a9ff02"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/jrq-zrjt-rsv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef244fc4aa3e64a9ff03"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:09:25.997Z",
+    "updatedAt": "2025-10-22T14:50:12.704Z",
+    "__v": 7,
+    "position": 18,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8301f55a3cc4feebf620a",
+    "name": "Module 17",
+    "description": "Fvg and bpr ranges",
+    "image": "52a3904a-6c17-4d55-9bd4-cf0816bf63a3.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/hqq-szcb-bis",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef164fc4aa3e64a9fda6"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/hqq-szcb-bis",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef164fc4aa3e64a9fda7"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/hqq-szcb-bis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef164fc4aa3e64a9fda8"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/hqq-szcb-bis",
+        "isDisabled": true,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef164fc4aa3e64a9fda9"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:10:07.540Z",
+    "updatedAt": "2025-10-22T14:49:58.794Z",
+    "__v": 7,
+    "position": 17,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8304d55a3cc4feebf628c",
+    "name": "Module 16",
+    "description": " Liquidity sweep and liquidity traps",
+    "image": "74efa353-93d9-46cb-a4dd-8172ff3785d6.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/xax-jxmo-kqg",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef094fc4aa3e64a9fcb4"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/xax-jxmo-kqg",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef094fc4aa3e64a9fcb5"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/xax-jxmo-kqg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef094fc4aa3e64a9fcb6"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/xax-jxmo-kqg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef094fc4aa3e64a9fcb7"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/xax-jxmo-kqg",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ef094fc4aa3e64a9fcb8"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:10:53.384Z",
+    "updatedAt": "2025-10-22T14:49:45.159Z",
+    "__v": 7,
+    "position": 16,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b830a255a3cc4feebf63fa",
+    "name": "Module 15",
+    "description": " Liquidity, liquidity engineering ",
+    "image": "5116d2a7-3da1-42b2-a6e2-662e2e069644.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/ggh-rvet-kko",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eef94fc4aa3e64a9fbc3"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/ggh-rvet-kko",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eef94fc4aa3e64a9fbc4"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/ggh-rvet-kko",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eef94fc4aa3e64a9fbc5"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:12:18.982Z",
+    "updatedAt": "2025-10-22T14:49:29.949Z",
+    "__v": 7,
+    "position": 15,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8311255a3cc4feebf64ee",
+    "name": "Module 14",
+    "description": "Htf and ltf analysis",
+    "image": "df5ef846-9ccb-4718-8643-733d7e88acd3.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/jgw-wgfj-knu",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeed4fc4aa3e64a9fad2"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/jgw-wgfj-knu",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeed4fc4aa3e64a9fad3"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/jgw-wgfj-knu",
+        "isDisabled": true,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeed4fc4aa3e64a9fad4"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/jgw-wgfj-knu",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeed4fc4aa3e64a9fad5"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:14:10.785Z",
+    "updatedAt": "2025-10-22T14:49:17.595Z",
+    "__v": 7,
+    "position": 14,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8314c55a3cc4feebf65ab",
+    "name": "Module 13",
+    "description": " Fibonacci tool, discount and premuim zone,dbs and sbd",
+    "image": "c120d607-3461-485e-adc6-0005c03f9530.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/shn-rgsz-jrb",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eedf4fc4aa3e64a9f9e1"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/shn-rgsz-jrb",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eedf4fc4aa3e64a9f9e2"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/shn-rgsz-jrb",
+        "isDisabled": true,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eedf4fc4aa3e64a9f9e3"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/shn-rgsz-jrb",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eedf4fc4aa3e64a9f9e4"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:15:08.284Z",
+    "updatedAt": "2025-10-22T14:49:03.346Z",
+    "__v": 7,
+    "position": 13,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8318e55a3cc4feebf6669",
+    "name": "Module 12",
+    "description": "Advanced market structure analysis - bos and choch, ",
+    "image": "d5b94bc8-b971-44a0-a3ee-15dce48ecc8a.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/bpg-xwhr-ady",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eecd4fc4aa3e64a9f828"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/bpg-xwhr-ady",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eecd4fc4aa3e64a9f829"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/bpg-xwhr-ady",
+        "isDisabled": true,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eecd4fc4aa3e64a9f82a"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/bpg-xwhr-ady",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eecd4fc4aa3e64a9f82b"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:16:14.486Z",
+    "updatedAt": "2025-10-22T14:48:45.866Z",
+    "__v": 7,
+    "position": 12,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b831bc55a3cc4feebf6728",
+    "name": "Module 11",
+    "description": "Introduction to smc and institutional trading and participants",
+    "image": "5b857191-1eea-4885-851b-6e8aa0f08ab9.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/peu-oyno-ycn",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eec24fc4aa3e64a9f737"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/peu-oyno-ycn",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eec24fc4aa3e64a9f738"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/peu-oyno-ycn",
+        "isDisabled": true,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eec24fc4aa3e64a9f739"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/peu-oyno-ycn",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eec24fc4aa3e64a9f73a"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:17:00.089Z",
+    "updatedAt": "2025-10-22T14:48:34.275Z",
+    "__v": 7,
+    "position": 11,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b831ed55a3cc4feebf67b0",
+    "name": "Module 10",
+    "description": "News based analysis and time zones",
+    "image": "00df6093-77d5-43c8-ae6f-141c9660bc09.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f642"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f643"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f644"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f645"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f646"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f647"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/vqh-wzwd-zaw",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eeb44fc4aa3e64a9f648"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:17:49.274Z",
+    "updatedAt": "2025-10-22T14:48:20.625Z",
+    "__v": 14,
+    "position": 10,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8322055a3cc4feebf6871",
+    "name": "Module 09",
+    "description": "Entry and exit model in chart patterns and volume based analysis",
+    "image": "490d30da-d2a8-416f-9f38-994ad5440d65.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54a"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54b"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54c"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54d"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54e"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f54f"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f550"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/beh-wqhx-hcz",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8eea64fc4aa3e64a9f551"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:18:40.081Z",
+    "updatedAt": "2025-10-22T14:48:06.726Z",
+    "__v": 8,
+    "position": 9,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8324e55a3cc4feebf6933",
+    "name": "Module 08",
+    "description": "Chart pattern analysis - bilateral patterns",
+    "image": "72ae5e7c-fbb0-4a11-95a8-680cb09bf303.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f309"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30a"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30b"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30c"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30d"
+      },
+      {
+        "language": "tamil",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30e"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/yjz-bbon-ocv",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee734fc4aa3e64a9f30f"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:19:26.783Z",
+    "updatedAt": "2025-10-22T14:47:15.068Z",
+    "__v": 11,
+    "position": 8,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8329355a3cc4feebf69f6",
+    "name": "Module 07",
+    "description": "Chart pattern analysis - continuos and reversal patterns",
+    "image": "02d01c47-4ea8-4bd5-beec-fa7f49c5ce23.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f149"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14a"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14b"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14c"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14d"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14e"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/wrq-znmq-fis",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee584fc4aa3e64a9f14f"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:20:35.907Z",
+    "updatedAt": "2025-10-22T14:46:48.663Z",
+    "__v": 8,
+    "position": 7,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b832b855a3cc4feebf6aba",
+    "name": "Module 06",
+    "description": " Introduction and detailed explanation of trading view and candlesticks",
+    "image": "cdfd4682-c291-4b84-a14f-92ea497afdf5.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f052"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f053"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f054"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f055"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f056"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f057"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/hxy-uqjd-zyi",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee3a4fc4aa3e64a9f058"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:21:12.758Z",
+    "updatedAt": "2025-10-22T14:46:18.770Z",
+    "__v": 8,
+    "position": 6,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b832e755a3cc4feebf6b47",
+    "name": "Module 05",
+    "description": " Market structure analysis and trends",
+    "image": "d49713cc-4d31-458d-8b4d-1060d87b0f88.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef5b"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef5c"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef5d"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef5e"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef5f"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef60"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/ciw-hwqc-uhf",
+        "isDisabled": true,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee2d4fc4aa3e64a9ef61"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:21:59.500Z",
+    "updatedAt": "2025-10-22T14:46:05.135Z",
+    "__v": 7,
+    "position": 5,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8331a55a3cc4feebf6c0d",
+    "name": "Module 04",
+    "description": " Trading psychology and risk reward management",
+    "image": "8049601d-1dd7-4179-9341-7d545fe37817.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed85"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed86"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed87"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed88"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed89"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": true,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed8a"
+      },
+      {
+        "language": "arabic",
+        "time": "00:00",
+        "link": "https://meet.google.com/gqg-cekz-vof",
+        "isDisabled": true,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee1a4fc4aa3e64a9ed8b"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:22:50.609Z",
+    "updatedAt": "2025-10-22T14:45:46.326Z",
+    "__v": 7,
+    "position": 4,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8336455a3cc4feebf6d0c",
+    "name": "Module 03",
+    "description": " Introduction and explanation about meta trader 5 and brokers",
+    "image": "1f05f1d4-9010-47d9-98c3-165186fbae9f.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec8e"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec8f"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec90"
+      },
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec91"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec92"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": true,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec93"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/eux-tywi-unq",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ee084fc4aa3e64a9ec94"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:24:04.737Z",
+    "updatedAt": "2025-10-22T14:45:28.505Z",
+    "__v": 7,
+    "position": 3,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8337c55a3cc4feebf6d9c",
+    "name": "Module 02",
+    "description": "Introduction to currency pairs and basic terminologies",
+    "image": "6e33fb00-5731-4b1b-a7a0-a010e816c915.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "17:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8edf74fc4aa3e64a9eb96"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8edf74fc4aa3e64a9eb97"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8edf74fc4aa3e64a9eb98"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8edf74fc4aa3e64a9eb99"
+      },
+      {
+        "language": "english",
+        "time": "01:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8edf74fc4aa3e64a9eb9a"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8edf74fc4aa3e64a9eb9b"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/gwd-nbfa-yfp",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8edf74fc4aa3e64a9eb9c"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:24:28.636Z",
+    "updatedAt": "2025-10-22T14:45:11.059Z",
+    "__v": 9,
+    "position": 2,
+    "isDisabled": false
+  },
+  {
+    "_id": "68b8343355a3cc4feebf6f6b",
+    "name": "Module 01",
+    "description": " Introduction to stock market and forex market",
+    "image": "7b7fccf9-eef0-47a5-ba04-3c20b794931f.png",
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea35"
+      },
+      {
+        "language": "malayalam",
+        "time": "15:30",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "wed",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea36"
+      },
+      {
+        "language": "malayalam",
+        "time": "19:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "thu",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea37"
+      },
+      {
+        "language": "malayalam",
+        "time": "20:30",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "fri",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea38"
+      },
+      {
+        "language": "malayalam",
+        "time": "13:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "sat",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ede14fc4aa3e64a9ea39"
+      },
+      {
+        "language": "malayalam",
+        "time": "10:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": false,
+        "avaibleDay": "sun",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "68f8ede14fc4aa3e64a9ea3a"
+      },
+      {
+        "language": "english",
+        "time": "00:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": true,
+        "avaibleDay": "sun",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea3b"
+      },
+      {
+        "language": "hindi",
+        "time": "00:00",
+        "link": "https://meet.google.com/vwa-jbxo-ukm",
+        "isDisabled": true,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "68f8ede14fc4aa3e64a9ea3c"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-09-03T12:27:31.924Z",
+    "updatedAt": "2025-10-22T14:44:49.228Z",
+    "__v": 16,
+    "position": 1,
+    "isDisabled": false
+  },
+  {
+    "_id": "690094efbcf5fc0c57709801",
+    "name": "test",
+    "description": "dont book this course only for testing purpose ",
+    "image": "0f060f53-157a-4956-b516-356f21907f0d.png",
+    "isDisabled": false,
+    "position": 1000002,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "sections": [
+      {
+        "language": "arabic",
+        "time": "15:41",
+        "link": "https://course.clt-academy.com/68aee1c9a09a8cba8d0e451c",
+        "isDisabled": false,
+        "avaibleDay": "tue",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "69009700bcf5fc0c5770a70c"
+      }
+    ],
+    "isDeleted": true,
+    "createdAt": "2025-10-28T10:03:27.863Z",
+    "updatedAt": "2025-10-29T10:41:51.865Z",
+    "__v": 4
+  },
+  {
+    "_id": "691ac1a217229aa046307a7a",
+    "name": "Demo 5",
+    "description": "check 5",
+    "image": "7fe44836-5012-465f-9bb1-a8e3adcde33e.png",
+    "isDisabled": false,
+    "position": 100,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "https://main.clt-academy.com/admin/courses",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "691ac1a217229aa046307a7b"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T06:33:06.111Z",
+    "updatedAt": "2025-11-17T13:02:48.636Z",
+    "__v": 4
+  },
+  {
+    "_id": "691ae67517229aa046308c53",
+    "name": "Demo 1",
+    "description": "checking 1",
+    "image": "39f924bf-ad6d-4fbe-95e5-36ddfd37fc0c.png",
+    "isDisabled": false,
+    "position": 101,
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "691ae67517229aa046308c54"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T09:10:13.292Z",
+    "updatedAt": "2025-11-17T13:03:23.928Z",
+    "__v": 5
+  },
+  {
+    "_id": "691aee6b17229aa0463099c9",
+    "name": "Demo 2",
+    "description": "checking 2 ",
+    "image": "85b379f8-202a-4602-88fb-72878a8ddcd2.png",
+    "isDisabled": false,
+    "position": 74,
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "691aee6b17229aa0463099ca"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T09:44:11.135Z",
+    "updatedAt": "2025-11-17T13:03:07.477Z",
+    "__v": 2
+  },
+  {
+    "_id": "691aeeac17229aa046309ab6",
+    "name": "Demo 3",
+    "description": "checking 3",
+    "image": "ee7c5992-65c2-4bf7-800a-d26c8c85a352.png",
+    "isDisabled": false,
+    "position": 102,
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "691aeeac17229aa046309ab7"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T09:45:16.144Z",
+    "updatedAt": "2025-11-17T13:01:49.441Z",
+    "__v": 6
+  },
+  {
+    "_id": "691aeeef17229aa046309ba4",
+    "name": "Demo 4",
+    "description": "checking 4",
+    "image": "e1089559-4911-421e-8034-46598189bcc7.png",
+    "isDisabled": false,
+    "position": 103,
+    "mainCourseId": "68aee22fa09a8cba8d0e453b",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "691aeeef17229aa046309ba5"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T09:46:23.576Z",
+    "updatedAt": "2025-11-17T13:01:21.402Z",
+    "__v": 8
+  },
+  {
+    "_id": "691b1437fc43482d6d9f6586",
+    "name": "Demo 6",
+    "description": "checking 6",
+    "image": "b6ff9a0c-720a-457c-bfa4-b81994857c00.png",
+    "isDisabled": false,
+    "position": 81,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:45",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7778506603faf9f2bd669",
+        "_id": "691b1437fc43482d6d9f6587"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T12:25:27.061Z",
+    "updatedAt": "2025-11-17T13:02:23.583Z",
+    "__v": 3
+  },
+  {
+    "_id": "691b1d5efc43482d6d9f88cb",
+    "name": "Demo 7",
+    "description": "checking 7",
+    "image": "deef5784-cfda-434e-a8f9-1c6df27fe4ac.png",
+    "isDisabled": false,
+    "position": 110,
+    "mainCourseId": "68aee1c9a09a8cba8d0e451c",
+    "sections": [
+      {
+        "language": "english",
+        "time": "17:55",
+        "link": "http://course1.clt-academy.com/",
+        "isDisabled": false,
+        "avaibleDay": "mon",
+        "mentorId": "68f7776606603faf9f2bd585",
+        "_id": "691b1d5efc43482d6d9f88cc"
+      }
+    ],
+    "isDeleted": false,
+    "createdAt": "2025-11-17T13:04:30.297Z",
+    "updatedAt": "2025-11-17T13:21:02.772Z",
+    "__v": 1
+  }
+]
